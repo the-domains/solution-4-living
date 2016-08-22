@@ -1,0 +1,14 @@
+layout_spectrum: 0.05336913117207587
+typography_spectrum: 0.24902009242214262
+color:
+  brandStrength: 0.6321545743849128
+  lightness: 0.5727692802902311
+  saturation: 0.20196118508465588
+  rhythmicContrast: 0.3174099801108241
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Solution 4 Living
